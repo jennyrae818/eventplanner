@@ -15,8 +15,13 @@ In this project we were tasked with making an event planner for a busy user. We 
 
 ![event planner png](eventplanner.png)
 
+
+
+Link to Github: https://github.com/jennyrae818/eventplanner
+
+
 ## LinkToSite
-<link to the live site here>
+https://jennyrae818.github.io/eventplanner/
 
 
 ## Questions
